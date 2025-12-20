@@ -1,0 +1,35 @@
+body {
+  text-align : center;
+  color : #121212;
+}
+
+input, img{
+  border :3px solid #121212;
+  margin : 5px;
+}
+
+img {
+  width:380px;
+  
+}
+
+button{
+  background:#121212;
+  color : #ffffff;
+}
+
+form {
+  display:flex;
+  flex-direction: column;
+  width:200px;
+  margin: 0 auto;
+  
+}
+
+p {
+  font-style: italic;
+}
+
+a {
+  text-decoration: underline solid #121212;
+}
