@@ -7,6 +7,12 @@ See all notable changes to this project documented in this file.
 - Add favicon
 - Update to Progressive Web App
 - Improve the accessibilty
+## [0.0.2] - 2025-12-25
+
+### Changed
+
+- Update the color of the hyperlink
+- Update the version
 
 ## [0.0.2] - 2025-12-25
 

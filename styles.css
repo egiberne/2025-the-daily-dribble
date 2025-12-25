@@ -49,6 +49,8 @@ p {
   margin : 5px auto;
 }
 
-a {
+a{
   text-decoration: underline solid #121212;
+  color:#121212;
 }
+
