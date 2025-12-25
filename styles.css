@@ -1,11 +1,25 @@
 body {
   text-align : center;
   color : #121212;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 600px;
+  margin: 0 auto;
+  align-items: center;
+  
 }
 
-input, img{
+input{
   border :3px solid #121212;
-  margin : 5px;
+  margin : 5px auto;
+  width: 200px;
+  padding: 10px;
+  font-weight: bold;
+}
+
+img{
+  border :3px solid #121212;
+  margin : 0 auto;
+  width: 200px;
 }
 
 img {
@@ -16,18 +30,23 @@ img {
 button{
   background:#121212;
   color : #ffffff;
+  width: 224px;
+  margin : 5px auto;
+  padding: 10px;
+  font-weight: bold;
 }
 
 form {
   display:flex;
   flex-direction: column;
-  width:200px;
-  margin: 0 auto;
   
 }
 
 p {
+  margin: 0 auto;
   font-style: italic;
+  width: 400px;
+  margin : 5px auto;
 }
 
 a {

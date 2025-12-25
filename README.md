@@ -19,15 +19,15 @@ Here are technologies:
 Here are the concepts praticed :
 
 - [x] Implementing accessible html form
-- [x] Apply basic web accessibity principal
+- [x] Apply basic web content accessibity principal
 
 ## 📺Demo
 
 ### 🔍 Preview
-![A video about subsribing to the newsletter](./image.gif "How to subscribe to the newsletter?" )
+![A video about subcribing to the newsletter](./image.gif "How to subscribe to the newsletter?" )
 
 ### 🎮 Live
-[Daily Dribble](...)
+[Daily Dribble](https://2025-the-daily-dribble.netlify.app/)
 
 ## Status
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
